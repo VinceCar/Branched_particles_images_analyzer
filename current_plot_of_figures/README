@@ -1,0 +1,2 @@
+There is an error in definitive plot steady states that can be corrected by copypasting from the plot_for_vero_subpaper. all routines need to have a similar syntax as the one used in that script.
+
