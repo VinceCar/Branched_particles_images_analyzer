@@ -1,0 +1,5 @@
+Code to analyse images produced through simulations. 
+A core assumption is that a particle is located wherevere angles are.
+You need to tune the diameter parameter in main_simulations to have optimal results.
+Note that in this version there is a loop included for the name, cause it is the code I used for our work.
+

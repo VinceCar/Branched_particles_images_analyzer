@@ -1,0 +1,4 @@
+This code assumes that you are interested in analysing all the contents in a directory and subdirectories. 
+An unmodifiable assumptio is that you are working with gwy files.
+If you need different formats you may reuse the subroutines but not main_experiments and image_anaylsis_experiments as they are.
+
